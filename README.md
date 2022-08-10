@@ -2,9 +2,15 @@
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
   
+- <b>Data Structures and Algorithms</b>
+  -
 
 - <b>Python</b>
-  - [Random Password Generator built in Python](https://github.com/JerrodxHavig/password_generator)
-
+  - [Random Password Generator](https://github.com/JerrodxHavig/password_generator)
+  - [Alien Invasion Pygame](https://github.com/JerrodxHavig/alien_invasion)
+  
+- <b>C++</b>
+  -
+  
 - <b>Full Stack Web App </b>
   -
