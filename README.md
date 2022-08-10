@@ -2,6 +2,8 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jerrod%20Havig-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/jerrodxhavig)
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Jerrod_Havig-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/JerrodxHavig)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Jerrod Havig</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
