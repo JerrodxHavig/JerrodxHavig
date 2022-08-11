@@ -37,18 +37,21 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ## 👨‍💻 Software Engineer Projects:
   
 - <b>Data Structures and Algorithms</b>
-  -
+  - Example
+  
+- <b>Full Stack Web Apps</b>
+  - Example
 
+- <b>JavaScript</b>
+  - Example
+  
 - <b>Python</b>
   - [Random Password Generator](https://github.com/JerrodxHavig/password_generator)
   - [Alien Invasion Pygame](https://github.com/JerrodxHavig/alien_invasion)
   
 - <b>C++</b>
-  -
+  - Example
   
-- <b>Full Stack Web App </b>
-  -
-
 📚 **Working on:** <br>
 
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
