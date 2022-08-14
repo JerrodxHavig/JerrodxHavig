@@ -34,6 +34,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 `Responsive web design`, `DOM`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+
 ## 👨‍💻 Software Engineer Projects:
   
 - <b>Data Structures and Algorithms</b>
