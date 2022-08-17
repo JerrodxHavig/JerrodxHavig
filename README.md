@@ -9,7 +9,7 @@
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Python developer | Web developer</p>
 
-<p align='left'> 📫 Effective Student committed to learning, and developing skills in Computer Science and team contribution.</p>
+<p align='left'> 📫 First-year computer science student, future web developer, with 3 years' experience in software development and website design. My passion for technology brought me to Riverside City College where I am working on my Associate's degree.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
