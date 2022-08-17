@@ -1,7 +1,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/JerrodxHavig?label=Follow%20Me&style=social)](https://github.com/JerrodxHavig)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Jerrod%20Havig-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/jerrodxhavig)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jerrod%20Havig-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jerrodxhavig/)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Jerrod_Havig-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/JerrodxHavig)
 
