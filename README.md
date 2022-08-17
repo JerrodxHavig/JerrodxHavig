@@ -7,7 +7,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Jerrod Havig</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software engineer | Full-stack JavaScript | Python developer | Web developer</p>
+<p align='center'>Software developer | Full-stack JavaScript | Python developer | Web developer</p>
 
 <p align='left'> 📫 Effective Student committed to learning, and developing skills in Computer Science and team contribution.</p>
 
@@ -38,7 +38,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
-## 👨‍💻 Software Engineer Projects:
+## 👨‍💻 Software Development Projects:
   
 - <b>Data Structures and Algorithms</b>
   - Null
