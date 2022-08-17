@@ -48,6 +48,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 - <b>HTML / CSS</b>
   - [Odin's Recipe](https://github.com/JerrodxHavig/odin-recipes)
+  - [Landing Page](https://github.com/JerrodxHavig/landingPage)
   
 - <b>Python</b>
   - [Random Password Generator](https://github.com/JerrodxHavig/password_generator)
