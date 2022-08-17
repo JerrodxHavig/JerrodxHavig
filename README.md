@@ -41,20 +41,20 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ## 👨‍💻 Software Engineer Projects:
   
 - <b>Data Structures and Algorithms</b>
-  - Example
+  - Null
   
 - <b>Full Stack Web Apps</b>
-  - Example
+  - Null
 
-- <b>JavaScript</b>
-  - Example
+- <b>HTML / CSS</b>
+  - [Odin's Recipe](https://github.com/JerrodxHavig/odin-recipes)
   
 - <b>Python</b>
   - [Random Password Generator](https://github.com/JerrodxHavig/password_generator)
   - [Alien Invasion Pygame](https://github.com/JerrodxHavig/alien_invasion)
   
 - <b>C++</b>
-  - Example
+  - Null
   
 📚 **Working on:** <br>
 
