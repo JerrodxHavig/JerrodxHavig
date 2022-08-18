@@ -27,8 +27,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-![OS - Linux](https://img.shields.io/badge/-Mac_OS-000000?style=flat&logo=apple&logoColor=ffffff&labelColor=0078D6)
+![OS - Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![OS - Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
+![OS - Mac](https://img.shields.io/badge/-Mac_OS-000000?style=flat&logo=apple&logoColor=ffffff&labelColor=0078D6)
 
 🧐 **Knowledge of:**<br>
 
