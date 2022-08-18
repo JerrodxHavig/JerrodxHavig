@@ -43,7 +43,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 - <b>Data Structures and Algorithms</b>
   - Null
   
-- <b>Full Stack Web Apps</b>
+- <b>Full Stack Web App</b>
   - Null
 
 - <b>HTML / CSS</b>
