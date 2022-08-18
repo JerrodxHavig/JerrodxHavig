@@ -46,16 +46,19 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 - <b>Full Stack Web App</b>
   - Null
 
-- <b>HTML / CSS</b>
-  - [Odin's Recipe](https://github.com/JerrodxHavig/odin-recipes)
-  - [Landing Page](https://github.com/JerrodxHavig/landingPage)
+- <b>PowerShell</b>
+  - Null
+
+- <b>C++</b>
+  - Null
   
 - <b>Python</b>
   - [Random Password Generator](https://github.com/JerrodxHavig/password_generator)
   - [Alien Invasion Pygame](https://github.com/JerrodxHavig/alien_invasion)
   
-- <b>C++</b>
-  - Null
+- <b>HTML / CSS / JavaScript</b>
+  - [Odin's Recipe](https://github.com/JerrodxHavig/odin-recipes)
+  - [Landing Page](https://github.com/JerrodxHavig/landingPage)
   
 📚 **Working on:** <br>
 
