@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jerrod%20Havig-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jerrodxhavig/)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Jerrod_Havig-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/JerrodxHavig)
+[![Codewars](https://img.shields.io/badge/Codewars-Jerrod%20Havig-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Jerrod Havig</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
