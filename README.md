@@ -7,7 +7,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Jerrod Havig</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Python developer | Web developer</p>
+<p align='center'>Software developer | Systems Engineer | Python developer | Web developer</p>
 
 <p align='left'> 📫 First-year computer science student, future web developer, with 3 years' experience in software development and website design. My passion for technology brought me to Riverside City College where I am working on my Associate's degree.</p>
 
