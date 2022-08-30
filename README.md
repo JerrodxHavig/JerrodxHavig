@@ -44,9 +44,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
   
 - <b>Data Structures and Algorithms</b>
   - Null
-  
-- <b>Full Stack Web App</b>
-  - Null
 
 - <b>PowerShell</b>
   - Null
