@@ -19,7 +19,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 |   2  |[Null](https://#)| C++ |
 |   3  |[Random Password Generator](https://github.com/devHavig/password_generator)| Python |
 |   4  |[Landing Page](https://github.com/devHavig/landingPage)| HTML, CSS |
-|   5  |[Null](https://#)| C++ |
+|   5  |[Null](https://#)| JavaScript |
 <br>
 
 
