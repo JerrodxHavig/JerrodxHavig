@@ -36,7 +36,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p align="left">
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devHavig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerrodhavig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerrod-havig" height="30" width="40" /></a>
-<a href="https://https://www.hackerrank.com/JerrodxHavig" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/hackerrank.svg" alt="jerrod-havig" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/JerrodxHavig" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/hackerrank.svg" alt="jerrod-havig" height="30" width="40" /></a>
 </p>
 
 </br>
