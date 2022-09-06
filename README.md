@@ -9,7 +9,7 @@
 
 <p align='left'> 📫 First-year computer science student, with 3 years' experience in software development and website design. My passion for technology brought me to Riverside City College where I am working on my Associate's degree.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. Check out my cheatsheets - [here's the repo](https://github.com/devHavig/cheatsheets)
 
 ## 👨‍💻 Software Development Projects
 
@@ -33,7 +33,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 `Responsive web design`, `DOM`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
-## Connect with me
+## 📲 Connect with me
 
 <p align="left">
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devHavig" height="30" width="40" /></a>
