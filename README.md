@@ -19,7 +19,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Null](https://#)| C++ |
+|   1  |[Interest Earned](https://github.com/devHavig/CPP/tree/main/Interest%20Earned)| C++ |
 |   2  |[Null](https://#)| C++ |
 |   3  |[Random Password Generator](https://github.com/devHavig/password_generator)| Python |
 |   4  |[Landing Page](https://github.com/devHavig/landingPage)| HTML, CSS |
