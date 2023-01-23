@@ -7,9 +7,9 @@
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | IT Professional | Web developer</p>
 
-<p align='left'> 📫 First-year computer science student, with 3 years' experience in software development and website design. My passion for technology brought me to Riverside City College where I am working on my Associate's degree.</p>
+<p align='left'> 📫 Second computer science student, with 3 years' experience in software development and website design. My passion for technology brought me to Riverside City College where I am working on my Associate's degree.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. Check out my cheatsheets - [here's the repo](https://github.com/devHavig/cheatsheets)
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend.
 
 <div align= "center">
 <h2>👨‍💻 Software Development Projects</h2>
