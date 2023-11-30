@@ -10,7 +10,7 @@
 <p align='left'> 📫 
 
 <div align= "center">
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>👨‍💻 Projects</h2>
 </div>
 
 <div align= "center">
