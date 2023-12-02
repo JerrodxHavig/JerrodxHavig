@@ -4,9 +4,6 @@
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Jerrod Havig</strong></samp></h2>
-<p align='center'>Systems Administrator | Software Engineer</p>
-
-<p align='left'> 📫 
 
 <div align= "center">
 <h2>👨‍💻 Projects</h2>
