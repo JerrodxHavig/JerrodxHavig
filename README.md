@@ -4,8 +4,7 @@
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Jerrod Havig</strong></samp></h2>
-<h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Systems Administrator | Software Engineer | IT Professional</p>
+<p align='center'>Systems Administrator | Software Engineer</p>
 
 <p align='left'> 📫 
 
