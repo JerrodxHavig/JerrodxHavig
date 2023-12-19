@@ -5,7 +5,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Jerrod Havig</strong></samp></h2>
 
-<p>I am a skilled IT professional with a strong background in systems administration, cloud computing, and cybersecurity. My technical expertise includes a variety of programming languages, cloud platforms, and development tools.</p>
+<p>A skilled IT professional with a strong background in systems administration, cloud computing, and cybersecurity. Technical expertise includes a variety of programming languages, cloud platforms, and development tools.</p>
 
 <br>
 
