@@ -10,7 +10,13 @@
 <br>
 
 <div align= "center">
+  
+![gopher dancing](./dancing-gopher.gif)
 
+</div>
+
+<div align= "center">
+  
 💻 **Languages and Tools:** 🛠️<br>
 
 </div>
