@@ -9,7 +9,7 @@ Skilled IT **professional** with a strong background in systems administration, 
 
 ## Experience
 
-At my current job, I work as a Systems Administrator for a local University. I've worked on a multitude of projects ranging from server upgrades and Vulnerability assesments, to new system integrations.
+At my current job, I work as a Systems Administrator for a local University. I've worked on a multitude of projects ranging from server upgrades and Vulnerability assessments, to new system integrations.
 
 <br>
 
