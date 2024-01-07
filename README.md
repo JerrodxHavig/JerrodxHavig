@@ -2,14 +2,16 @@
 <br>
 <br>
 
+## <samp><strong>Hi there 👋</strong></samp>
 
-<h2 align='center'><samp><strong>Hi there 👋, I'm Jerrod Havig</strong></samp></h2>
 
 Skilled IT **professional** with a strong background in systems administration, cloud computing, and cybersecurity. Technical expertise includes a variety of programming languages, cloud platforms, and development tools.
 
 ##  🧠 Experience
 
-At my current job, I work as a Systems Administrator for a local University. I've worked on a multitude of projects ranging from server upgrades and Vulnerability assessments, to new system integrations.
+In my current role, I work as a Systems Administrator for a local University. My responsibilities have included overseeing comprehensive server upgrades and conducting thorough vulnerability assessments, ensuring our systems remain robust against evolving cyber threats.
+
+In my day-to-day work, I do a lot of scripting and automating to make things run smoother and more efficiently. I mainly use PowerShell and Bash for this – they're my go-to tools for getting the job done right.
 
 <br>
 
