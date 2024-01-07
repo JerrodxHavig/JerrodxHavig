@@ -11,7 +11,7 @@ Skilled IT **professional** with a strong background in systems administration, 
 
 In my current role, I work as a Systems Administrator for a local University. My responsibilities have included overseeing comprehensive server upgrades and conducting thorough vulnerability assessments, ensuring our systems remain robust against evolving cyber threats.
 
-In my day-to-day work, I do a lot of scripting and automating to make things run smoother and more efficiently. I mainly use PowerShell and Bash for this – they're my go-to tools for getting the job done right.
+In my day-to-day work, I do a lot of scripting and automating to make things run smoother and more efficiently. I mainly use [`PowerShell`](https://github.com/PowerShell/PowerShell) and [`Bash`](https://www.gnu.org/software/bash/) for this – they're my go-to tools for getting the job done right.
 
 <br>
 
