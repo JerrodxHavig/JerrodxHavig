@@ -17,6 +17,6 @@ In my day-to-day work, I do a lot of scripting and automating to make things run
 
 ### 📚 A bit about me
 
-* I like black coffee, hiking, animals, rainy days on the Bayou, and coding. (I use nvim, btw) 🖥️
+* I like black coffee ☕︎, hiking, animals, rainy days on the Bayou, and coding. (I use nvim, btw) 🖥️
 * I'm self taught, through and through. Learning new things is why I love this career field.
 * Currently learning [`GO`](https://go.dev/) + [`HTMX`](https://htmx.org/)
